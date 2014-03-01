@@ -12,3 +12,6 @@
 		url = https://username:password@git.oschina.net/repos/g3.git
 
 push时，运行git push all master。
+## 保存密码，添加：
+	[credential]    
+	helper = store
