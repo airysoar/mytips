@@ -19,6 +19,7 @@
     	url = https://username:password@gitcafe.com/repos/g2.git
 		url = https://username:password@git.oschina.net/repos/g3.git
 
+<<<<<<< HEAD
 push时，运行git push all master。
 
 ## 修改
@@ -44,3 +45,6 @@ push时，运行git push all master。
 [http://stackoverflow.com/questions/4255865/git-push-to-multiple-repositories-simultaneously/4255934#4255934](http://stackoverflow.com/questions/4255865/git-push-to-multiple-repositories-simultaneously/4255934#4255934)
 
 [http://blog.csdn.net/mci2004/article/details/7763399](http://blog.csdn.net/mci2004/article/details/7763399)
+=======
+push时，运行git push all master。
+>>>>>>> parent of f7ce469... 保存密码
