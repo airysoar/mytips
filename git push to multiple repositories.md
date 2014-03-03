@@ -46,5 +46,3 @@ push时，运行git push all master。
 
 [http://blog.csdn.net/mci2004/article/details/7763399](http://blog.csdn.net/mci2004/article/details/7763399)
 =======
-push时，运行git push all master。
->>>>>>> parent of f7ce469... 保存密码
